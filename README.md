@@ -1,2 +1,2 @@
 # Color-Game
-A game to enhance your rgb color knowledge 
+A fun game to enhance your rgb color knowledge 
